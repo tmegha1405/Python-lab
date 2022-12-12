@@ -13,3 +13,14 @@ def fibonacci(num):
          n2=n3
          count=count+1
 fibonacci(num)
+
+//
+o/p
+Enter the value:6
+The fibonacci series is:
+0
+1
+1
+2
+3
+5
