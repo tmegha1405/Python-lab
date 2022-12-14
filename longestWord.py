@@ -6,3 +6,8 @@ def findLongestWord(wordList):
     return highestLength
 words=input("Enter a series of words separated by spaces:").split(" ")
 print(findLongestWord(words))
+
+//
+o/p
+Enter a series of words separated by spaces:arya megha anju
+5
