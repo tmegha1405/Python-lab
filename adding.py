@@ -7,3 +7,8 @@ def addIngOrLy(str):
 word=input("Enter a word to modify:")
 modifiedString=addIngOrLy(word)
 print("Modified string=",modifiedString)
+
+//
+o/p
+Enter a word to modify:coming
+Modified string= comingly
