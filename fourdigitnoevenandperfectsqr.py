@@ -33,6 +33,9 @@ def takeInput():
         numberCombinations(s_range, f_range)
     else:
         takeInput()
+       
+    
+takeInput()
         
         //
         o/p
@@ -45,4 +48,3 @@ def takeInput():
 
 
 
-takeInput()
